@@ -1,0 +1,36 @@
+.header{background-color: #1C5E79; color:#fff; height:35px; vertical-align: top; }
+.header a, .header label{color:#fff; vertical-align: middle; }
+.header .form-input {color:#1C5E79;}
+.title {margin-bottom:3px;
+      color:#fff;
+      font-size:1.4em;
+      font-family: "Arial,Verdana, Sans-serif";
+      font-weight: bold;
+      vertical-align: top;
+      text-align: center;
+  }
+input { border:1px thin #1C5E79; }
+.headerItem {margin-bottom:3px; color: #fff;vertical-align: top;text-align: center; text-decoration: none;}
+h1 { color: #1090ff; font-size:22px; font-family: "Arial,Verdana, Sans-serif"; font-weight: bold;}
+h2 { color: #1C5E79; font-size:20px; font-family: "Arial,Verdana, Sans-serif"; font-weight: bold;}
+h3 { color: #1D4A5D; font-size:18px; font-family: "Arial,Verdana, Sans-serif"; font-weight: bold;}
+p  {color: #0B1019; font-size:1em; font-family: "Arial,Verdana, Sans-serif";}
+.welcome_message { color: 1090ff; font-style: italic; font-size:0.8em; font-family: "Arial,Verdana, Sans-serif";}
+label {color: #3B989B; font-size:14px; font-family: "Arial,Verdana, Sans-serif"; }
+hr { border: 1px thin #000; }
+button {color: #fff; font-family: "Arial,Verdana, Sans-serif"; width:auto;}
+a:link, a:active, a:visited { cursor: hand; }
+.container { margin-top: 30px;}
+.footer {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 100px;
+  width: 100%;
+}
+.footer p{
+  color: #1090ff;
+  font-family: "Arial,Verdana, Sans-serif";
+  font-size: 1em;
+  text-align: center;
+}
